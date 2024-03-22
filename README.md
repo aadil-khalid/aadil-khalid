@@ -1,14 +1,11 @@
-# AadL @ inTheSynthesis 
-## Civil Engineer honing programming skills to build efficient software.
+### AadL @ inTheSynthesis  
+### A Civil Engineer honing programming skills to build resilient software.  
 
-Currently Learning:
 - Computer Networking & Data Structures
 - Backend Web Development
 - Cloud Integration-Deployment
 
-Education:  
-
-BTech Civil Engineering 2023
+ ### <p align = "center"> 📖---💻---🎮</p>
 
 
 
