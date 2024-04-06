@@ -1,4 +1,4 @@
-### AadL @ inTheSynthesis  
+### Aadil @ inTheSynthesis  
 ### A Civil Engineer honing programming skills to build resilient software.  
 
 - Computer Networking & Data Structures
